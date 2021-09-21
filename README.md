@@ -19,7 +19,7 @@ To-do list:
 * Using angular instead of HTML/CSS/JS
 ## Getting Started
    
-git remote and originhttps://github.com/kushwanth12/Employee_Management_System
+git remote and origin https://github.com/kushwanth12/Employee_Management_System
 > Compile and run java code for the server and DB connection
 >  Run code in eclipse IDE
 - Open up the Registration.html file on browser`and fill user details
