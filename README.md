@@ -14,7 +14,8 @@ List of features ready and TODOs for future development
 * create new user details 
 * update User Details
 * Get all User Details
-To-do list:
+
+## To-do list:
 * Using springboot instead of hibernate
 * Using angular instead of HTML/CSS/JS
 ## Getting Started
